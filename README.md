@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pili</h1>
 <h3 align="center">A passionate software developer</h3>
 
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
 - 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **pilarmosto@gmail.com**
